@@ -10,5 +10,5 @@ Luego de tener descargados los datos, se procede a abrir el notebook en el googl
 En el siguiente link podra observar el video 1 de la presentación del proyecto parte 2
 https://www.youtube.com/watch?v=uur1yE7XrRA
 
-En el siguiente botón encontrará el código
+En el siguiente botón encontrará el código de la entrega final
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vequeth/Proyecto-inteligencia-artificial/blob/main/01_NotebookFinal.ipynb)
