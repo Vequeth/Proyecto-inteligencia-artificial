@@ -12,3 +12,8 @@ https://www.youtube.com/watch?v=uur1yE7XrRA
 
 En el siguiente botón encontrará el código de la entrega final
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vequeth/Proyecto-inteligencia-artificial/blob/main/01_NotebookFinal.ipynb)
+
+
+
+En el siguien link encontrará la presentación final del proyecto
+https://www.youtube.com/watch?v=glXPW-2_Pls&ab_channel=SANTIAGOLORDUYGIL
